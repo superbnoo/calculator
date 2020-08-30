@@ -15,7 +15,6 @@
   padding: 0.2rem 0.7rem 0.1rem 0.5rem;
 }
 
-
 .calculator-panel {
   background-color: #858694;
   display: flex;
@@ -30,10 +29,6 @@
   flex: 1 0 auto;
   display: flex;
 }
-
-
-
-
 
 .calculator-body {
   max-width: 400px;

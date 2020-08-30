@@ -69,7 +69,7 @@ class App extends Component {
       <div>
         <div className= "calculator-body" >
           <h1>React Calculator </h1>
-          <ResultComponent result = { this.state.result } />
+          <ResultComponent result={ this.state.result } />
           <ButtonPanelComponent onClick={ this.onClick } />
         </div>
       </div>
