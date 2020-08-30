@@ -1,4 +1,7 @@
-### 1. Create app
+![alt text](https://github.com/superbnoo/calculator/blob/master/sample.png?raw=true)
+
+
+# 1. Create app
 ### `npx create-react-app calculator`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -31,19 +34,19 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
-### 2. Adding calculator components
-# components/Button.js
-# components/ButtonPanelComponent.js
-# components/ResultComponent.js
+# 2. Adding calculator components
+### components/Button.js
+### components/ButtonPanelComponent.js
+### components/ResultComponent.js
 
-### 3. Style sheet
-# App.css
-# components/Button.css
+# 3. Style sheet
+### App.css
+### components/Button.css
 
-### 4. Unit Test
-# App.test.js
+# 4. Unit Test
+### App.test.js
 
-### 5. Notes
-# There is no validation on Maths expression. For invalid Maths expression, app would output 'error' as the result
+# 5. Notes
+### There is no validation on Maths expression. For invalid Maths expression, app would output 'error' as the result
 
-# After cloning the repo, run `npm install`, and then `npm start`
+### After cloning the repo, run `npm install`, and then `npm start`
